@@ -6,9 +6,7 @@ CUDA Feature Matching and Object Tracking
 * Yash Vardhan
 * Tested on: Windows 10 Pro, Intel i5-4200U (4) @ 2.600GHz 4GB, NVIDIA GeForce 840M 2048MB
 
-In this project, I will implement a feature matching algorithm and an object tracking algorithm on GPUs and CPUs.
-
-# Features:
+In this project, I will implement the following computer vision algorithms on GPUs and CPUs:
 * Feature Matching
 * Object Tracking
 

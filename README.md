@@ -58,7 +58,7 @@ Runs the KCF tracking algorithm on the object inside the box and the position in
 * Perform Kernel Regression on updated features which gives new position for bounding box. This is the actual learning algorithm.
 
 ### Results :
-[![Watch the video](images/ot.jpg)](https://youtu.be/FSxoJhhMFWw)
+[![Watch the video](images/ot.png)](https://youtu.be/aJFYr7Pg8i0)
 
 ### Performance Analysis :
 ![](images/3.png)
